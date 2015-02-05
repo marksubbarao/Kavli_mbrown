@@ -1,0 +1,13 @@
+#Sedna SGO (SG Orbit) file
+
+Inclination 30.93761314716987	
+SemiMajorAxis 30.93761314716987	
+Eccentricity .505845873337292	  
+LongOfAscNode 336.815258445639		 
+LongOfPerihelion 183.4676539149602
+MeanLongitude 287.3141206174154
+DailyMotion .001803343945270885	 
+DateOfElements 2457000.5
+
+## date of mean ecliptic and equinox of elements
+#DateOfEcliptic

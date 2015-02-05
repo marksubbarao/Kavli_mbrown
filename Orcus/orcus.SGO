@@ -1,0 +1,13 @@
+#Orcus SGO (SG Orbit) file
+
+Inclination 20.55200908658715
+SemiMajorAxis 39.45974796563077	
+Eccentricity .218430021323487		  
+LongOfAscNode 268.4816085757602	 
+LongOfPerihelion 341.8767669984396
+MeanLongitude 154.4458229738486
+DailyMotion .003976240214765596	
+DateOfElements 2457000.5
+
+## date of mean ecliptic and equinox of elements
+#DateOfEcliptic
