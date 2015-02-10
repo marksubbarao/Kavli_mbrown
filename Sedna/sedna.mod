@@ -22,9 +22,10 @@ object Sedna sgOrbitalObject
 {
 	coord	SednaC
 	
-	geometry SG_SPHERE 104.1 80  # 1041 km
-	#texture ceres.dds
-	#scalefactor 1.0
+	geometry SG_dynamical_Sphere sedna.conf #SG_Sphere 104.1 80  # 1041 km
+
+
+	scalefactor 1.0
 
 	targetradius 210
 	lsize	3000000
