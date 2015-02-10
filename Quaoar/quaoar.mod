@@ -22,7 +22,7 @@ object Quaoar sgOrbitalObject
 {
 	coord	QuaoarC
 	
-	geometry SG_SPHERE 109.2 80  # 995 km
+	geometry SG_dynamical_Sphere Quaoar.conf #109.2 80  # 995 km
 	#texture ceres.dds
 	#scalefactor 1.0
 
