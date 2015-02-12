@@ -1,0 +1,13 @@
+#Makemake SGO (SG Orbit) file
+
+Inclination 28.99773481861856
+SemiMajorAxis 45.5461851025641
+Eccentricity 0.1581942065388186  
+LongOfAscNode 79.605628166931 
+LongOfPerihelion 375.0649870667087
+MeanLongitude 524.9922227768629
+DailyMotion 0.003206462 
+DateOfElements 2454369.5
+
+## date of mean ecliptic and equinox of elements
+#DateOfEcliptic
