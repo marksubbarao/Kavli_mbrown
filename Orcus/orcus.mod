@@ -22,7 +22,7 @@ object Orcus sgOrbitalObject
 {
 	coord	OrcusC
 	
-	geometry SG_SPHERE 98.3 80  # 983 km
+	geometry SG_dynamical_sphere orcus.conf #98.3 80  # 983 km
 	#texture ceres.dds
 	#scalefactor 1.0
 
