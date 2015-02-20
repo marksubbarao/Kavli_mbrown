@@ -1,0 +1,17 @@
+# Namaka SGO (SG Orbit) file
+#--------------------
+# 
+# Description of units 
+# -Unit of semiMajorAxis: AU 
+# -Mean Longitude is: (Mean anomaly + long of asc node + arg of periapsis) 
+# 
+# Created by Mark SubbaRao
+
+Inclination      113.013
+LongOfAscNode    0
+LongOfPerihelion 0
+SemiMajorAxis    0.000171506452
+DailyMotion      19.69548590405
+Eccentricity     0.249
+MeanLongitude    0
+
