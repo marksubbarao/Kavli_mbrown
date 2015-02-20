@@ -1,0 +1,18 @@
+# Dysnomia SGO (SG Orbit) file
+#--------------------
+# 
+# Description of units 
+# -Unit of semiMajorAxis: AU 
+# -Mean Longitude is: (Mean anomaly + long of asc node + arg of periapsis) 
+# 
+# Created by Mark SubbaRao
+
+Inclination      142.0
+LongOfAscNode    0.0
+LongOfPerihelion 0.0
+SemiMajorAxis    0.0002496693
+DailyMotion      22.822365918
+Eccentricity     0.0
+MeanLongitude    0.0
+DateofElements	 2456491.5
+
