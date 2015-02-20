@@ -1,0 +1,13 @@
+#Ceres SGO (SG Orbit) file
+
+Inclination 44.187
+SemiMajorAxis 67.6681
+Eccentricity 0.44177
+LongOfAscNode 35.8696
+LongOfPerihelion 187.3001
+MeanLongitude 24.93437
+DailyMotion 0.001769
+
+#DateOfElements
+## date of mean ecliptic and equinox of elements
+#DateOfEcliptic
